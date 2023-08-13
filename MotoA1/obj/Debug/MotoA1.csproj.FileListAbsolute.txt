@@ -1,0 +1,11 @@
+F:\Study\C#\MotoA1\MotoA1\bin\Debug\MotoA1.exe.config
+F:\Study\C#\MotoA1\MotoA1\bin\Debug\MotoA1.exe
+F:\Study\C#\MotoA1\MotoA1\bin\Debug\MotoA1.pdb
+F:\Study\C#\MotoA1\MotoA1\obj\Debug\MotoA1.csproj.AssemblyReference.cache
+F:\Study\C#\MotoA1\MotoA1\obj\Debug\MotoA1.Properties.Resources.resources
+F:\Study\C#\MotoA1\MotoA1\obj\Debug\MotoA1.csproj.GenerateResource.cache
+F:\Study\C#\MotoA1\MotoA1\obj\Debug\MotoA1.csproj.CoreCompileInputs.cache
+F:\Study\C#\MotoA1\MotoA1\obj\Debug\MotoA1.exe
+F:\Study\C#\MotoA1\MotoA1\obj\Debug\MotoA1.pdb
+F:\Study\C#\MotoA1\MotoA1\obj\Debug\AppMoTo.Form1.resources
+F:\Study\C#\MotoA1\MotoA1\obj\Debug\MotoA1.Result.resources
