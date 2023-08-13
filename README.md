@@ -1,3 +1,3 @@
 # MotoA1
 driver's license in VietNam
-Mvt Vn
+Into Install/setup.exe or Install/MotoA1.msi to install application 
